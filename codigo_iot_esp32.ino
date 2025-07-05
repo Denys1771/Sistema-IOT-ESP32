@@ -8,8 +8,8 @@
 #include <BlynkSimpleEsp32.h>
 
 // Credenciales de WiFi
-char ssid[] = "Empresa_Aqs";        // Reemplaza con el nombre de tu red WiFi (WIFI_SSID)
-char pass[] = "jhfbre7f7ref";    // Reemplaza con la contraseña de tu red WiFi (WIFI_PASSWORD)
+char ssid[] = "Empresa_Aqs";        // Nombre de red WiFi (WIFI_SSID)
+char pass[] = "jhfbre7f7ref";    // Contraseña de red WiFi (WIFI_PASSWORD)
 
 // Definición de pines
 #define RELAY_PUMP 22  // Pin GPIO22 para controlar la bomba (IN2 del relé)
